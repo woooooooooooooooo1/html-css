@@ -1,0 +1,16 @@
+*{
+    box-sizing: border-box;
+}
+
+
+body{
+    font-family: system-ui;
+}
+
+input, textarea, button, select {
+    font: inherit;
+}
+
+a::before {
+    content: "😎";
+}
